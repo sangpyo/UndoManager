@@ -22,6 +22,7 @@
 		66FEED2621FEB53F00D5F5BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66FEED2921FEB53F00D5F5BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		66FEED2B21FEB53F00D5F5BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66FEED3121FF303800D5F5BB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		66FEED1321FEB53E00D5F5BB = {
 			isa = PBXGroup;
 			children = (
+				66FEED3121FF303800D5F5BB /* README.md */,
 				66FEED1E21FEB53E00D5F5BB /* UndoManager */,
 				66FEED1D21FEB53E00D5F5BB /* Products */,
 			);
